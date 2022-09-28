@@ -1,5 +1,5 @@
-<<<<<<< Updated upstream
+
 das ist eien neus File
-=======
+
 Stash gemacht
->>>>>>> Stashed changes
+
